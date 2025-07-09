@@ -1,3 +1,3 @@
 # chai or backend
 
-This is a practice porject on backend
+This is a practice project on backend
