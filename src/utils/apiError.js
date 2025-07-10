@@ -13,7 +13,7 @@ constructor(
     this.errors=errors
 
 
-    if(stack){
+    if(stack){  
         this.stack=stack
     }
     else{
