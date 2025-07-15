@@ -1,3 +1,3 @@
-# chai or backend
+# Mastering Backend
 
 This is a practice project on backend
