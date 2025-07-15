@@ -35,7 +35,10 @@ app.use(express.static("public"))
 // cookie parser is use to recieve or set money from user's web browser to server
 app.use(cookieParser())
 
+// routes import 
+import userRouter from './routes/user.routes.js'
 
+ app.use("/api/v1/users",userRouter)
 
 
 export default app;
