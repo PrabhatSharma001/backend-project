@@ -33,6 +33,3 @@ src/
 
 └── index.js # App entry point
 
-makefile
-Copy
-Edit
